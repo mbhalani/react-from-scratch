@@ -1,0 +1,26 @@
+{
+  "name": "react-from-scratch",
+  "version": "1.0.0",
+  "description": "### npm install -g ### grunt-cli ### express",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbhalani/react-from-scratch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbhalani/react-from-scratch/issues"
+  },
+  "homepage": "https://github.com/mbhalani/react-from-scratch#readme"
+}
